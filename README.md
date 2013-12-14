@@ -5,3 +5,4 @@ one big different. This plugin disables form validation for all forms all the ti
 With damienalexandre you need to click "disable" at every page load. 
 
 
+Install the plugin from [the chrome webstore](https://chrome.google.com/webstore/detail/auto-remove-html5-form-va/odfjmmehfeibapgipjbhdojkiemkbpik)
